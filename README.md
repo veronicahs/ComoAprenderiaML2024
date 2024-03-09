@@ -1,6 +1,6 @@
 # Cómo aprendería Machine Learning en 2024
 
-¡Hola a todos/as! Este repositorio contiene la presentación de PowerPoint sobre "Aprender Machine Learning en 2024".
+¡Hola a todos/as! Este repositorio contiene la presentación de PowerPoint sobre "Cómo Aprendería Machine Learning en 2024".
 
 ## En este material encontrarás:
 
